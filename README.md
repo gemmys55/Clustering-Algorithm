@@ -22,7 +22,7 @@ Steps of KMeans Algorithm:
 
 Why KMeans Clustering is Suitable for the Iris Dataset
 -------------------------------------------------
-1. Natural Groupings
+1.Natural Groupings
 ------------------------
 The Iris dataset consists of three distinct species (setosa, versicolor, virginica), making it ideal for KMeans, which groups data into K clusters.
 Since we already know there are three species, setting K=3 aligns well with the dataset’s structure.
